@@ -1,0 +1,8 @@
+.dltSelected {
+  padding: 0.8rem 1.2rem;
+  background-color: #ff0063;
+  border-radius: 1.7em;
+  color: white;
+  border: none;
+  font-weight: bold;
+}

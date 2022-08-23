@@ -1,0 +1,17 @@
+.btn {
+  padding: 0.8rem 1rem;
+  border-radius: 50%;
+  background-color: #0096ff;
+  border: none;
+  color: white;
+  margin: 0 0.5em;
+}
+
+.selected {
+  padding: 0.8rem 1rem;
+  border-radius: 50%;
+  background-color: white;
+  border: 1px solid #0096ff;
+  color: black;
+  margin: 0 0.5em;
+}

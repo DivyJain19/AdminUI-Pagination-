@@ -1,0 +1,42 @@
+.arrowBtn {
+  padding: 0.57rem 0.65rem;
+  border-radius: 50%;
+  background-color: #0096ff;
+  border: none;
+  color: white;
+  position: relative;
+  top: 0.3em;
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+.image {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+.disabled {
+  padding: 0.57rem 0.65rem;
+  border-radius: 50%;
+  background-color: gray;
+  border: none;
+  color: white;
+  position: relative;
+  top: 0.3em;
+  margin-right: 0.5em;
+  margin-left: 0.5em;
+}
+@media screen and (max-width: 800px) {
+  .arrowBtn {
+    top: 0;
+  }
+  .disabled {
+    top: 0;
+  }
+}
+@media screen and (max-width: 600px) {
+  .arrowBtn {
+    top: 0;
+  }
+  .disabled {
+    top: 0;
+  }
+}
